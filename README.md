@@ -1,5 +1,8 @@
 # Neovim Config
 
+`git clone https://github.com/crowforkotlin/nvim-config.git ~/.config/nvim`
+`git clone https://github.com/crowforkotlin/nvim-config.git ~/AppData/Local/nvim`
+
 - Completion : 代码提示插件
 - Catppuccin ：主题
 - LauLine : 状态栏
